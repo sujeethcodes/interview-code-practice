@@ -14,5 +14,6 @@ func main() {
 	problems.FindingLargestNumber()
 	problems.FindingSamllestNumber()
 	problems.CountingVowelsConsonants()
+	problems.CharacterCounter()
 
 }
