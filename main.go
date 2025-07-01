@@ -11,4 +11,5 @@ func main() {
 	problems.ReverseString(reversetr)
 	problems.PalindromeChecker(palindromeValue)
 	problems.SwapTwoNumbers()
+	problems.FindingLargestNumber()
 }
