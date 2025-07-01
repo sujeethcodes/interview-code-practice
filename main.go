@@ -12,4 +12,6 @@ func main() {
 	problems.PalindromeChecker(palindromeValue)
 	problems.SwapTwoNumbers()
 	problems.FindingLargestNumber()
+	problems.FindingSamllestNumber()
+
 }
