@@ -19,5 +19,6 @@ func main() {
 	problems.SumDigits()
 	problems.RemoveDuplicatsArray()
 	problems.ReverseWordString()
-
+	problems.EvenOddFinder()
+	problems.FindStringLength()
 }
