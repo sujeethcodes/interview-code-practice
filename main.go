@@ -17,5 +17,6 @@ func main() {
 	problems.CharacterCounter()
 	problems.Fibonacci()
 	problems.SumDigits()
+	problems.RemoveDuplicatsArray()
 
 }
