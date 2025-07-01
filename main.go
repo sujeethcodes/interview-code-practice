@@ -16,5 +16,6 @@ func main() {
 	problems.CountingVowelsConsonants()
 	problems.CharacterCounter()
 	problems.Fibonacci()
+	problems.SumDigits()
 
 }
