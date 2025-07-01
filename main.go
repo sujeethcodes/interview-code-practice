@@ -15,5 +15,6 @@ func main() {
 	problems.FindingSamllestNumber()
 	problems.CountingVowelsConsonants()
 	problems.CharacterCounter()
+	problems.Fibonacci()
 
 }
