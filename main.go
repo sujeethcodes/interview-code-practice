@@ -18,5 +18,6 @@ func main() {
 	problems.Fibonacci()
 	problems.SumDigits()
 	problems.RemoveDuplicatsArray()
+	problems.ReverseWordString()
 
 }
