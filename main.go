@@ -13,5 +13,6 @@ func main() {
 	problems.SwapTwoNumbers()
 	problems.FindingLargestNumber()
 	problems.FindingSamllestNumber()
+	problems.CountingVowelsConsonants()
 
 }
