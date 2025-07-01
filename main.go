@@ -13,5 +13,8 @@ func main() {
 	problems.SwapTwoNumbers()
 	problems.FindingLargestNumber()
 	problems.FindingSamllestNumber()
+	problems.CountingVowelsConsonants()
+	problems.CharacterCounter()
+	problems.Fibonacci()
 
 }
