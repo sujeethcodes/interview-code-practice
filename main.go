@@ -29,4 +29,5 @@ func main() {
 	problems.SecondLargestElement()
 	problems.CheckTwoStringAnagram()
 	problems.FindMissingElements()
+	problems.SortArray()
 }
