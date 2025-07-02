@@ -26,4 +26,5 @@ func main() {
 	problems.ArrayReverse()
 	problems.CheckArraySort()
 	problems.CaseConvertion()
+	problems.SecondLargestElement()
 }
