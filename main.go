@@ -30,4 +30,5 @@ func main() {
 	problems.CheckTwoStringAnagram()
 	problems.FindMissingElements()
 	problems.SortArray()
+	problems.FirstNonRepeatingChar()
 }
