@@ -27,4 +27,5 @@ func main() {
 	problems.CheckArraySort()
 	problems.CaseConvertion()
 	problems.SecondLargestElement()
+	problems.CheckTwoStringAnagram()
 }
