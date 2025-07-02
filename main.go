@@ -31,4 +31,7 @@ func main() {
 	problems.FindMissingElements()
 	problems.SortArray()
 	problems.FirstNonRepeatingChar()
+	problems.CommonElementsOfTwoAray()
+	problems.ReverseSentence()
+	problems.PairSumFinder()
 }
