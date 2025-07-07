@@ -34,4 +34,13 @@ func main() {
 	problems.CommonElementsOfTwoAray()
 	problems.ReverseSentence()
 	problems.PairSumFinder()
+	problems.MergeTwoSortedArray()
+	problems.RemoveAllWhiteSpace()
+	problems.ExtractDigitsAndAlphat()
+	problems.MoveZeroToEnd()
+	problems.RemoveElements()
+	problems.RotateArray()
+	problems.PrimeNumbers()
+	problems.TwoSum()
+
 }
