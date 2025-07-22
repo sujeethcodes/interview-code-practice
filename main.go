@@ -40,5 +40,6 @@ func main() {
 	problems.SearchRotatedSortIndex()
 	problems.FindTheMaximumSumOfSubArray()
 	problems.TopKfreqElement()
+	problems.LongestSubstringUnique()
 
 }
