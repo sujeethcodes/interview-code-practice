@@ -2,7 +2,8 @@ package problems
 
 import "fmt"
 
-func PalindromeChecker(palindromeValue string) {
+func PalindromeChecker() {
+	palindromeValue := "chair"
 	left := 0
 	right := len(palindromeValue) - 1
 

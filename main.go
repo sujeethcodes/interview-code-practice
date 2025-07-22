@@ -2,14 +2,9 @@ package main
 
 import "interview-code-practice/problems"
 
-var (
-	palindromeValue = "chair"
-	reversetr       = "helloworld"
-)
-
 func main() {
-	problems.ReverseString(reversetr)
-	problems.PalindromeChecker(palindromeValue)
+	problems.ReverseString()
+	problems.PalindromeChecker()
 	problems.SwapTwoNumbers()
 	problems.FindingLargestNumber()
 	problems.FindingSamllestNumber()
@@ -42,5 +37,8 @@ func main() {
 	problems.RotateArray()
 	problems.PrimeNumbers()
 	problems.TwoSum()
+	problems.SearchRotatedSortIndex()
+	problems.FindTheMaximumSumOfSubArray()
+	problems.TopKfreqElement()
 
 }
